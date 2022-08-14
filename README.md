@@ -1,1 +1,1 @@
-# This is my first python code created using Jupyter Notebook.
+# Python code created using Jupyter Notebook.
